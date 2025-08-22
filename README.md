@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Luís 👋</h1>
+<h1 align="center">👋 Olá! Eu sou o Luís Miguel</h1>
 
 🎓 Estudante de **Desenvolvimento de Sistemas**  
 🚀 Em busca de me tornar um **desenvolvedor Java completo**  
@@ -12,17 +12,17 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/> 
 
 </div>
 
@@ -32,31 +32,34 @@
 
 <div align="center">
 
-![Luís GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis9768&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis9768&layout=compact&theme=tokyonight)
+![Luís GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis9768&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis9768&layout=compact&theme=transparent)
 
 </div>
 
 ---
 
-## 💼 Alguns Projetos
+## 💼 Projetos em Destaque
 
-- 🔎 **Price Checker API** – API em **Spring Boot** que checa preços de produtos na internet usando **Web Scraping (Jsoup)**  
-- 🌿 **Estufa Automatizada com ESP32** – Comunicação **MQTT** entre dois microcontroladores, sensores de temperatura e controle via **LCD touch**  
+- 🔎 **Price Checker API** – API em **Spring Boot** para checar preços com **Web Scraping (Jsoup)**  
+- 🌿 **Estufa Automatizada com ESP32** – Automação com **MQTT**, sensores e **LCD touch**  
 - 🖥️ **Calculadora Java com Swing** – Interface gráfica com operações básicas  
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Conecte-se comigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-miguel-pereira-lima-348141249/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luis9768)
+<a href="https://www.linkedin.com/in/lu%C3%ADs-miguel-pereira-lima-348141249/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+<a href="https://github.com/Luis9768" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-⭐ *Obrigado por visitar meu perfil! Estou sempre estudando e evoluindo como desenvolvedor. Me acompanhe por aqui para ver minha evolução!* 🚀
-8
+⭐ *Obrigado por visitar meu perfil! Estou sempre evoluindo como desenvolvedor e compartilhando projetos por aqui.* 🚀
