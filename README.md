@@ -10,8 +10,6 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-## 🛠️ Tecnologias e Ferramentas
-
 <div align="center">
 
 <p align="center">
