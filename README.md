@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Luís Miguel</h1>
 
 🎓 Estudante de **Desenvolvimento de Sistemas**  
-🚀 Em busca de me tornar um **desenvolvedor Java completo**  
+🚀 Em busca de me tornar um **desenvolvedor ma linguagem Java**  
 🌱 Atualmente estudando: **Java, Spring Boot, Git, Linux, Banco de Dados**  
 🔧 Cursos: **Cisco (Linux)** e **AWS (Fundamentos de Cloud)**  
 💡 Projetos em **IoT com ESP32** (MQTT, sensores, LCD touch)
