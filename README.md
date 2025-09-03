@@ -10,10 +10,9 @@
 ## 🏅 Minhas Conquistas
 
 <p align="center">
-  <a href="https://www.credly.com/badges/3776283f-b282-4aa5-91e5-1731bda66323/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/3776283f-b282-4aa5-91e5-1731bda66323/badge.png" width="150" alt="Credly Badge"/>
-  </a>
-</p>
+  <a href="https://www.credly.com/badges/3776283f-b282-4aa5-91e5-1731bda66323/public_url" target="blank" style="text-decoration: none;">
+  <img width="15%" height="15%" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
+</a>
 
 💡 Projetos em **IoT com ESP32** (MQTT, sensores, LCD touch)
 
