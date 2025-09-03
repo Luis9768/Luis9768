@@ -14,8 +14,6 @@
   <img width="15%" height="15%" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
 </a>
 
-💡 Projetos em **IoT com ESP32** (MQTT, sensores, LCD touch)
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
