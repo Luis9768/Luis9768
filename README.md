@@ -1,9 +1,20 @@
 <h1 align="center">👋 Olá! Eu sou o Luís Miguel</h1>
 
 🎓 Estudante de **Desenvolvimento de Sistemas**  
-🚀 Em busca de me tornar um **desenvolvedor ma linguagem Java**  
+🚀 Em busca de me tornar um **desenvolvedor na linguagem Java**  
 🌱 Atualmente estudando: **Java, Spring Boot, Git, Linux, Banco de Dados**  
 🔧 Cursos: **Cisco (Linux)** e **AWS (Fundamentos de Cloud)**  
+
+---
+
+## 🏅 Minhas Conquistas
+
+<p align="center">
+  <a href="https://www.credly.com/badges/3776283f-b282-4aa5-91e5-1731bda66323/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/3776283f-b282-4aa5-91e5-1731bda66323/badge.png" width="150" alt="Credly Badge"/>
+  </a>
+</p>
+
 💡 Projetos em **IoT com ESP32** (MQTT, sensores, LCD touch)
 
 ---
@@ -37,10 +48,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="70" height="50"/>
 </p>
 
-
-
 </div>
-
 
 ---
 
