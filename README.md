@@ -92,6 +92,5 @@
   </picture>
 </p>
 
----
 
 ⭐ *Obrigado por visitar meu perfil! Estou sempre evoluindo como desenvolvedor e compartilhando projetos por aqui.* 🚀
