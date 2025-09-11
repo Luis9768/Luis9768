@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Desenvolvimento de Sistemas**  
 🚀 Em busca de me tornar um **desenvolvedor na linguagem Java**  
-🌱 Atualmente estudando: **Java, Spring Boot, Git, Linux, Banco de Dados**  
+🌱 Atualmente estudando: **Java, Spring, Git, Linux, SQL**  
 🔧 Cursos: **Cisco (Linux)** e **AWS (Fundamentos de Cloud)**  
 
 ---
