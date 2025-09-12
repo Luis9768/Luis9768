@@ -7,7 +7,7 @@
 
 ---
 
-## 🏅 Minhas Conquistas
+## 🏅 Badges
 
 <p align="center">
   <a href="https://www.credly.com/badges/3776283f-b282-4aa5-91e5-1731bda66323/public_url" target="blank" style="text-decoration: none;">
