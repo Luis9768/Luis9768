@@ -14,9 +14,9 @@
   <img width="15%" height="15%" src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/>
 </a>
 <a href="https://www.credly.com/badges/81186be0-e6b2-4721-8e57-17c8f3ac1620/public_url" target="blank" style="text-decoration: none;">
-  <img width="15%" height="15%" src="https://images.credly.com/size/340x340/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png"/>
+  <img width="15%" height="15%" src="https://images.credly.com/size/340x340/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob
+"/>
 </a>
-
 
 ---
 
@@ -50,7 +50,14 @@
 </p>
 
 </div>
-
+---
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luis9768/Luis9768/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luis9768/Luis9768/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Luis9768/Luis9768/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 ---
 
 ## 📈 Estatísticas do GitHub
@@ -86,10 +93,4 @@
 </div>
 
 ⭐ *Obrigado por visitar meu perfil! Estou sempre evoluindo como desenvolvedor e compartilhando projetos por aqui.* 🚀
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luis9768/Luis9768/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luis9768/Luis9768/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Luis9768/Luis9768/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+
