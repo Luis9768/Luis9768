@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Luís Miguel! 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Java Backend em Formação</b><br>
+  <b>Desenvolvedor Java Backend</b><br>
   <i>Transformando café em código limpo e soluções escaláveis.</i>
 </p>
 
