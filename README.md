@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luís-miguel-fullstack/" target="_blank">
+  <a href="https://www.linkedin.com/in/lu%C3%ADs-miguel-pereira-lima-348141249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Luis9768" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:luiskasami@gmail.com">
+  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -44,7 +44,6 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Java Trainee/
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" height="45" alt="AWS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-<img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mark-github-16.svg" width="45" height="45" style="filter: invert(1);" alt="GitHub"/>
 
 </div>
 
@@ -65,11 +64,11 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Java Trainee/
 
 ## 💼 Projetos em Destaque
 
-| Projeto | Tecnologias | Descrição |
-| :--- | :---: | :--- |
-| **Price Checker API** | Java, Spring Boot, Jsoup | API RESTful que realiza **Web Scraping** para monitoramento de preços em tempo real. Implementa boas práticas de arquitetura. |
-| **Estufa IoT** | C++, ESP32, MQTT | Sistema de automação para estufas utilizando sensores físicos, comunicação via protocolo **MQTT** e interface via LCD Touch. |
-| **Calculadora GUI** | Java, Swing | Aplicação Desktop com interface gráfica para operações matemáticas, focada em Lógica de Programação e OOP. |
+| Projeto | Status | Tecnologias | Descrição |
+| :--- | :---: | :---: | :--- |
+| **Nitro Auto Peças** | ✅ Concluído | Java, Padrão MVC, SQL | Sistema de gerenciamento de peças automotivas. Foco na aplicação rigorosa da **Arquitetura MVC** (Model-View-Controller) para separação de responsabilidades e código limpo. |
+| **Barber Shop System** | 🚧 Em Construção | Java, Spring Boot, JPA | Sistema completo para gestão de barbearias, incluindo agendamento, cadastro de clientes e controle financeiro. |
+| **Price Checker API** | ✅ Concluído | Java, Spring Boot, Jsoup | API RESTful que realiza **Web Scraping** para monitoramento de preços em e-commerce em tempo real. |
 
 ---
 
@@ -83,15 +82,15 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Java Trainee/
 
 ---
 
-## 📊 Estatísticas
+## 🏆 Conquistas no GitHub
 
 <div align="center">
-
-![Luís GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis9768&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis9768&layout=compact&theme=transparent&hide_border=true)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Luis9768&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
 </div>
 
 <div align="center">
-  <sub><i>"A persistência é o caminho do êxito."</i></sub>
+  <br>
+  <sub><i>"A disciplina é a ponte entre metas e realizações."</i></sub>
 </div>
