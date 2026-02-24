@@ -89,15 +89,6 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Java Trainee/
 
 ---
 
-## 🏆 Conquistas no GitHub
-
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Luis9768&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <sub><i>"A disciplina é a ponte entre metas e realizações."</i></sub>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true" width="400" alt="Linguagens Mais Usadas"/>
 </div>
