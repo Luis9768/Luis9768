@@ -65,6 +65,10 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Java Trainee/
   <a href="https://www.credly.com/badges/81186be0-e6b2-4721-8e57-17c8f3ac1620/public_url" target="blank">
     <img width="140" src="https://images.credly.com/size/340x340/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" alt="Badge Cisco"/>
   </a>
+  <a href="https://www.credly.com/badges/95cc433f-9c16-4982-9610-7d375ef0646b/public_url" target="blank">
+    <img width="140" src="https://images.credly.com/size/340x340/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" alt="Badge Cisco"/>
+  </a>
+  
 </div>
 
 ---
