@@ -38,6 +38,7 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Java Trainee/
 
 ### Banco de Dados
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="Microsoft SQL Server / SSMS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
 
 ### Infra, Cloud & Ferramentas
