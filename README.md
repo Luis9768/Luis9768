@@ -88,7 +88,6 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Java Trainee/
 </p>
 
 ---
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis9768I&layout=compact&theme=dracula&hide_border=true" width="400" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula&hide_border=true" width="400" alt="Frequência de Commits"/>
 </div>
