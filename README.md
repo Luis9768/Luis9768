@@ -90,5 +90,5 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Java Trainee/
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true" width="400" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis9768I&layout=compact&theme=dracula&hide_border=true" width="400" alt="Linguagens Mais Usadas"/>
 </div>
