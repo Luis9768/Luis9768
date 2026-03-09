@@ -86,9 +86,9 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Java Trainee/
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="65" height="65" alt="IntelliJ IDEA" />
       <br>IntelliJ
-    </td>
+  </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="110">
