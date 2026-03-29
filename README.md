@@ -119,7 +119,7 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Java Trainee/
 | Projeto | Status | Tecnologias | Descrição |
 | :--- | :---: | :---: | :--- |
 | **Nitro Auto Peças** | ✅ Concluído | Java, Padrão MVC, SQL | Sistema de gerenciamento de peças automotivas. Foco na aplicação rigorosa da **Arquitetura MVC** (Model-View-Controller) para separação de responsabilidades e código limpo. |
-| **Barber Shop System** | 🚧 Em Construção | Java, Spring Boot, JPA | Sistema completo para gestão de barbearias, incluindo agendamento, cadastro de clientes e controle financeiro. |
+| **Barber Shop System** | ✅ Concluído  | Java, Spring Boot, JPA | Sistema completo para gestão de barbearias, incluindo agendamento, cadastro de clientes e controle financeiro. |
 | **Price Checker API** | ✅ Concluído | Java, Spring Boot, Jsoup | API RESTful que realiza **Web Scraping** para monitoramento de preços em e-commerce em tempo real. |
 
 ---
